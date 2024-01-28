@@ -1,0 +1,33 @@
+.main_div{
+    display: flex;
+    flex-direction: row;
+    margin-top: 8px;
+}
+
+.products_grid{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 10px;
+    margin-left: 16px
+}
+
+.load_more_div{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.load_more_btn{
+    background-color: transparent;
+    padding: 16px;
+    width: 8rem;
+    height: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #828282;
+    font-family: 'Oswald', 'sans-serif';
+    font-weight: 400;
+    border: 1px solid #C4C4C4;
+    text-transform: uppercase;
+}

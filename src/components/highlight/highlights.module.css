@@ -1,0 +1,51 @@
+.highlight_main_div{
+    background-image: url('/src/assets/highlight-card-bg.png');
+    width: 98vw;
+    height: 60vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.highlight_girls_img{
+    width: 40vw;
+    height: 55vh;
+    /* border: 1px solid black; */
+}
+
+.sale_text{
+    font-family: 'Oswald', 'sans-serif';
+    font-weight: 800;
+    font-size: 3rem;
+    margin-left: 32px;
+}
+
+.sale_div{
+    display: flex;
+    flex-direction: column;
+}
+
+.sale_text_border{
+    padding-right: 8px;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.btn_shop_now{
+    margin-top: 16px;
+    width: 7rem;
+    height: 40px;
+    margin-left: 32px;
+    background-color: transparent;
+    font-family: "Oswald", "sans-serif";
+    font-weight: 500;
+    font-size: 12px
+}
+
+.left_div{
+    display: flex;
+    flex-direction: column;
+}

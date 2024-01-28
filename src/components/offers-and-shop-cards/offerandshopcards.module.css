@@ -1,0 +1,12 @@
+.main_div{
+    margin-top: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+.left_div{
+    display: flex;
+    flex-direction: column;
+}

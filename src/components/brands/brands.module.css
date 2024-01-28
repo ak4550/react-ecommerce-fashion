@@ -1,0 +1,15 @@
+.brands_text_div{
+    font-family: "Oswald", 'sans-serif';
+    font-weight: 500;
+    font-size: 1.5rem;
+    padding: 16px;
+    display: flex;
+    width: 6rem;
+    height: 3rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.brands_text_div:hover{
+    background-color: #F0F2F2;
+}

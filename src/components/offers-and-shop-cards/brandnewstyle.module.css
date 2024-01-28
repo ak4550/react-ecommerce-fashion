@@ -1,0 +1,46 @@
+.main_div {
+  background-color: #F2DBD1;
+  background-image: url("../../assets/girl-3.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 50rem;
+  height: 20rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left_div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 4rem;
+}
+
+.brand_new_style_span {
+  font-family: "Oswald", "sans-serif";
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+.popular_clothing_span{
+    font-family: "Roboto", 'sans-serif';
+    font-weight: 400;
+    font-size: 0.9rem
+}
+
+.see_offers_btn{
+    margin-top: 32px;
+    padding: 16px;
+    width: 8rem;
+    height: 2rem;
+    display: flex;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    font-family: 'Oswald', 'sans-serif';
+    font-size: 0.7rem;
+    font-weight: 500;
+}

@@ -1,0 +1,30 @@
+.product_card_div{
+    display: flex;
+    flex-direction: column;
+}
+
+.product_card_img{
+    width: 15rem;
+    height: 20rem;
+}
+
+.product_category_span{
+    color: #BDBDBD;
+    font-family: 'Oswald', 'sans-serif';
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: .7rem;
+}
+
+.product_name_span{
+    font-family: 'Oswald', 'sans-serif';
+    font-weight: 300;
+    font-size: .9rem;
+    text-transform: capitalize;   
+}
+
+.product_price_span{
+    font-family: 'Oswald', 'sans-serif';
+    font-weight: 500;
+    text-transform: uppercase
+}

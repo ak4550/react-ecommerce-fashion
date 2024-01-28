@@ -1,0 +1,34 @@
+.main_div{
+    height: 40.5rem;
+    width: 50rem;
+    position: relative;
+    background-image: url('../../assets/girl-2.png');
+}
+
+.discount_txt{
+    font-family: 'Oswald', 'sans-serif';
+    font-weight: 600;
+    font-size: 3rem;
+    color: #131313
+}
+
+.special_offers_txt{
+    font-family: 'Roboto', 'sans-serif';
+    font-weight: 400;
+    font-size: 0.9rem
+}
+
+.shop_now_btn{
+    margin-top: 32px;
+    padding: 16px;
+    width: 8rem;
+    height: 2rem;
+    display: flex;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    font-family: 'Oswald', 'sans-serif';
+    font-size: 0.7rem;
+    font-weight: 500;
+}

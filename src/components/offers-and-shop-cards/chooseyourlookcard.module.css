@@ -1,0 +1,40 @@
+.main_div{
+    background-color: #F0EEEF;
+    width: 50rem;
+    height: 20rem;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    display: flex;
+}
+
+.choose_div{
+  display: flex;
+  flex-direction: column;
+  font-size: 3rem;
+  font-family: 'Oswald', 'sans-serif';
+  font-weight: 500;
+}
+
+.choose_div span{
+    padding: 0;
+    margin: 0
+}
+
+.collections_div{
+    font-family: 'Roboto', 'sans-serif';
+    font-weight: 400;
+}
+
+.see_offers_btn{
+    margin-top: 32px;
+    padding: 16px;
+    width: 8rem;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    font-family: 'Oswald', 'sans-serif';
+    font-size: 0.7rem;
+    font-weight: 500;
+}
